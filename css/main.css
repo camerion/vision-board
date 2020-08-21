@@ -1,0 +1,95 @@
+/*Base Style*/
+
+body{
+  background: #ff5757 ;
+}
+
+#vision-board {
+  margin: 50px auto;
+  width: 1200px;
+  height: 850px;
+  overflow: auto;
+  background-size: cover;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-transform: uppercase;
+}
+
+.block {
+  float:left;
+  box-sizing: border-box;
+  width: 400px;
+}
+/*block style*/
+
+.small-block {
+  height: 210px;
+  padding: 20px 40px;
+}
+
+.large-block {
+  height: 430px;
+  padding: 70px 40px;
+}
+
+.light-bg {
+  background-image: url('../img/wallpaper-clouds.png');
+}
+
+.dark-bg {
+  background-image: url('../img/bg-code.png');
+}
+
+top-padding {
+  padding-top: 40px;
+}
+
+/*fonts and highlights*/
+
+ .center {
+   text-align: center;
+ }
+
+.right{
+  text-align: right;
+}
+
+strong {
+  font-size: 38px;
+  text-transform: uppercase;
+  line-height: 38px;
+  color: ;
+}
+
+.title {
+  margin: auto;
+  font-size: 30px;
+  color: 	#ffae19;
+  font-family: 'Open Sans', sans-serif;
+}
+
+span {
+  text-decoration: underline;
+}
+
+/*Images*/
+
+#cloud {
+  height: 210px;
+  width: 300px;
+}
+
+ #world {
+   height:156px;
+   width: 156px;
+ }
+
+ #target {
+  height: 210px;
+
+ }
+
+ #brush {
+   height: 163px;
+   width: 132px;
+   padding-top: 20px;
+ }
